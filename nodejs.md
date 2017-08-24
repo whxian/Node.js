@@ -14,7 +14,7 @@ Node.js 是谷歌 V8 引擎、libuv平台抽象层 以及主体使用 Javscript 
 3. 非阻塞式IO（异步IO），高性能
 
 **运行：**
-node 文件名.js
+node 文件名
 
 
 **搭建服务器**
