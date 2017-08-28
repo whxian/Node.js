@@ -27,7 +27,7 @@ const server = http.createServer(function(request,response){
 })
 ```
 
-**writeFile(文件名,'内容',回调(error))  写文件**
+**writeFile(文件名,'内容',回调(error))   写文件**
 ```
 fs.writeFile('2.txt','我是222',(error) => {
   if(error){
